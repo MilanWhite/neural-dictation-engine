@@ -1,0 +1,6 @@
+moonshine-voice==0.1.6
+sounddevice==0.5.6
+numpy==2.5.5
+pyperclip==1.11.0
+requests==2.34.2
+pillow==13.0.0
